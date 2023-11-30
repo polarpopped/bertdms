@@ -1,0 +1,88 @@
+.mstheme
+{
+	nav-banner-image: url(aswbnr.gif);
+	separator-image: url(aswrule.gif);
+	list-image-1: url(aswbull1.gif);
+	list-image-2: url(aswbull2.gif);
+	list-image-3: url(aswbull3.gif);
+	navbutton-horiz-pushed: url(swhbp.gif);
+	navbutton-horiz-normal: url(swhbs.gif);
+	navbutton-horiz-hovered: url(swhbh.gif);
+	navbutton-vert-pushed: url(swvbp.gif);
+	navbutton-vert-normal: url(swvbs.gif);
+	navbutton-vert-hovered: url(swvbh.gif);
+	navbutton-home-normal: url(swhomes.gif);
+	navbutton-home-hovered: url(swhomeh.gif);
+	navbutton-home-pushed: url(swhomes.gif);
+	navbutton-up-normal: url(swups.gif);
+	navbutton-up-hovered: url(swuph.gif);
+	navbutton-up-pushed: url(swups.gif);
+	navbutton-prev-normal: url(swprevs.gif);
+	navbutton-prev-hovered: url(swprevh.gif);
+	navbutton-prev-pushed: url(swprevs.gif);
+	navbutton-next-normal: url(swnexts.gif);
+	navbutton-next-hovered: url(swnexth.gif);
+	navbutton-next-pushed: url(swnexts.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: "Arial Rounded MT Bold", Arial, Helvetica;
+	font-size: 6;
+	color: rgb(255,255,255);
+}
+.mstheme-horiz-navtxt
+{
+	font-family: "Trebuchet MS", Arial, Helvetica;
+	font-size: 2;
+	font-weight: bold;
+	text-align: right;
+	color: rgb(0,153,0);
+}
+.mstheme-vert-navtxt
+{
+	font-family: "Trebuchet MS", Arial, Helvetica;
+	font-size: 2;
+	font-weight: bold;
+	text-align: right;
+	color: rgb(255,0,0);
+}
+.mstheme-navtxthome
+{
+	font-family: "Trebuchet MS", Arial, Helvetica;
+	font-size: 1;
+	font-weight: bold;
+	color: rgb(255,255,255);
+}
+.mstheme-navtxtup
+{
+	font-family: "Trebuchet MS", Arial, Helvetica;
+	font-size: 1;
+	font-weight: bold;
+	color: rgb(255,255,255);
+}
+.mstheme-navtxtprev
+{
+	font-family: "Trebuchet MS", Arial, Helvetica;
+	font-size: 1;
+	font-weight: bold;
+	color: rgb(255,255,255);
+}
+.mstheme-navtxtnext
+{
+	font-family: "Trebuchet MS", Arial, Helvetica;
+	font-size: 1;
+	font-weight: bold;
+	color: rgb(255,255,255);
+}
+UL
+{
+	list-style-image:url(aswbull1.gif);
+}
+UL UL
+{
+	list-style-image:url(aswbull2.gif);
+}
+UL UL UL
+{
+	list-style-image:url(aswbull3.gif);
+}
